@@ -1,0 +1,94 @@
+ {
+  "produtos": [
+      {
+      "id": "01",
+      "nome_prod": "212 Vip Men - Carolina Herrera",
+      "valor": 849.00,
+      "categoria_id": 2,
+      "descricao": "O perfume 212 VIP MEN captura a fresca energia de jovens líderes que desafiam as regras e mostram aos outros o caminho a seguir. Combinando simultaneamente o fresco e o amadeirado, esta fragrância única associa as intrigantes notas de caviar de lima a um toque de menta congelada, para um resultado vibrante." 
+      },
+
+    {
+      "id": "02",
+      "nome_prod": "Ameixa Negra Nativa Spa - O boticário",
+      "valor": 74.90,
+      "categoria_id": 1,
+      "descricao": "Além de hidratar, essa loção corporal traz do leste da França o lado mais profundo da Ameixa Negra para caracterizar sua fragrância. Seu formato em microcápsulas se rompe ao longo do dia, trazendo momentos de surpresa e alta durabilidade da perfumação." 
+    },
+
+    {
+      "id": "03",
+      "nome_prod": "Bubbaloo - O boticário ",
+      "valor": 65.90,
+      "categoria_id": 1,
+      "descricao": "Loção Hidratante Desodorante Corporal Cuide-se Bem Bubbaloo é um delicioso hidratante corporal que deixa sua pele macia, sedosa e perfumada com cheirinho inconfundível de Bubbaloo Morango.  Com 96% de ingredientes naturais." 
+    },
+
+    {
+      "id": "04",
+      "nome_prod": "Paradoxe - Prada",
+      "valor": 1000.00,
+      "categoria_id": 1,
+      "descricao": "A primeira extração de brotos de néroli para a Prada. Reinventando a sensualidade com Ambrofix™. Reinventando a intensidade com uma nova molécula revolucionária de almíscar: o Serenolide™, para um rastro intenso, porém sutil e confortável, perceptível desde a saída." 
+    },
+
+    {
+      "id": "05",
+      "nome_prod": "Good Girl - Carolina Herrera",
+      "valor": 800.00,
+      "categoria_id": 1,
+      "descricao": "Good Girl Blush Eau de Parfum contrasta duas extrações diferentes de uma base sensual de baunilha com o romantismo de um coração de Peônia, formado por duas formas distintas de Ylang Ylang exótico e água de rosas reciclada. 100% vegano, o Good Girl Blush apresenta baunilha e ylang ylang de origem sustentável." 
+    },
+
+    {
+      "id": "06",
+      "nome_prod": "Just Different - Hugo Boss",
+      "valor": 419.30,
+      "categoria_id": 2,
+      "descricao": "O perfume masculino HUGO Just Different é para homens que fazem suas próprias regras. Uma fragrância diferente, inusitada e moderna composta por menta gelada, frésia, manjericão e musks. Renda-se ao encanto dessa fresca e masculina fragrância aromática fougère e destaque-se na multidão com HUGO Just Different." 
+    },
+
+    {
+      "id": "07",
+      "nome_prod": "Lily - O boticário",
+      "valor": 279.90,
+      "categoria_id": 1,
+      "descricao": "Lily acredita que uma mulher delicada e sensível também pode ser forte e empoderada. Com essa inspiração em sua essência, a marca traz uma fragrância feminina que soma a delicadeza de facetas únicas florais com a força marcante das madeiras, que a tornam sofisticada e uma rica experiência olfativa." 
+    },
+
+    {
+      "id": "08",
+      "nome_prod": "Cuide-se Bem Bendito Cacto - O boticário",
+      "valor": 197.60,
+      "categoria_id": 1,
+      "descricao": "oção Desodorante Hidratante Corporal. Hidratação intensa e imediata; Absorve rapidinho; Pele macia e suave; Para áreas ressecadas como joelhos, cotovelos, calcanhares e pés; Reduz ressecamento e aspecto esbranquiçado da pele; Fórmula vegana." 
+    },
+
+    {
+      "id": "09",
+      "nome_prod": "Blue Gold Blend - RalphLauren Polo",
+      "valor": 555.00,
+      "categoria_id": 2,
+      "descricao": "Polo Blue Eau de Parfum, de Ralph Lauren, é uma interpretação elegante e sofisticada do clássico aroma Polo Blue. A Eau de Parfum é um contraste entre o frescor efervescente da bergamota e do cardamomo e a intensidade sedutora do vetiver e de madeiras âmbar." 
+    },
+
+    {
+      "id": "10",
+      "nome_prod": "Química de Humor - Natura",
+      "valor": 134.60,
+      "categoria_id": 2,
+      "descricao": "Inspirado na reação que acontece quando o amor está no ar, Química de Humor Masculino traz uma mistura irreverente que combina notas amadeiradas com um toque de romã e o contraste da piper, uma pimenta da biodiversidade brasileira, que esquenta e surpreende." 
+    }
+  ],
+
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Perfume_Feminino"
+     },
+    {
+      "id": 2,
+      "nome": "Perfume_Masculino"
+    }
+  ]
+}
